@@ -1,0 +1,18 @@
+cd "C:\THIS FOLDER\FHSchule\6. Semester\Betriebliche Praxis\PIN DIODE\PINSIM1\build\Release"
+
+hadd Merge1.root output0_t0.root output0_t1.root output0_t2.root output0_t3.root output0_t4.root output0_t5.root output0_t6.root output0_t7.root
+
+hadd Merge2.root output1_t0.root output1_t1.root output1_t2.root output1_t3.root output1_t4.root output1_t5.root output1_t6.root output1_t7.root
+
+hadd Merge3.root output2_t0.root output2_t1.root output2_t2.root output2_t3.root output2_t4.root output2_t5.root output2_t6.root output2_t7.root
+
+hadd Merge4.root output3_t0.root output3_t1.root output3_t2.root output3_t3.root output3_t4.root output3_t5.root output3_t6.root output3_t7.root
+
+hadd Merge5.root output4_t0.root output4_t1.root output4_t2.root output4_t3.root output4_t4.root output4_t5.root output4_t6.root output4_t7.root
+
+hadd Merge6.root output5_t0.root output5_t1.root output5_t2.root output5_t3.root output5_t4.root output5_t5.root output5_t6.root output5_t7.root
+
+hadd Merge7.root output6_t0.root output6_t1.root output6_t2.root output6_t3.root output6_t4.root output6_t5.root output6_t6.root output6_t7.root
+
+hadd Merge8.root output7_t0.root output7_t1.root output7_t2.root output7_t3.root output7_t4.root output7_t5.root output7_t6.root output7_t7.root
+ 
